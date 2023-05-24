@@ -27,7 +27,7 @@ a package for Whatsapp integration with Salesforce that adds these capabilities:
   * add any Token to this Label "WaWebhoohToken"
 ### Whatsapp
 * add in the WA webhook
-  * Callback URL: yourSiteURL/WA/services/apexrest/whatsapp/webhook/v1/
+  * Callback URL: yourSiteURL/WA/services/apexrest/WA_SF/whatsapp/webhook/v1/
   * Verify token: the Token you added in the Custom Label "WaWebhoohToken"
 ## Add the WA approved Template message to Salesforce to Use it
  add new record in WA Template Object:
