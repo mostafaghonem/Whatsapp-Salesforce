@@ -15,7 +15,7 @@ a package for Whatsapp integration with Salesforce that adds these capabilities:
 * sendCustomMessages: to send custom message (for Contact or Lead).
 * whatsappForCampagin: to send template messages for the campagin members.
 
-## After Installation Instructions:
+# After Installation Instructions:
 ### Salesforce
 * Create a new Force.com Site and make the default Web Address: "yourSiteURL/WA", check the active checkbox
   * Eneter the created Site.
