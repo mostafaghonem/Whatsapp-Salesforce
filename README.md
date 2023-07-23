@@ -23,9 +23,10 @@ a package for Whatsapp integration with Salesforce that adds these capabilities:
   * Apex Class Access
   * then add WA_SF.WA_webhook
 * add in the Salesforce Org -> custom Labels:
-  * add your WA permenant token to this Label "WaPermnantToken"
-  * add any Token to this Label "WaWebhoohToken"
-  * add the Phone Number Id to this Label "WaPhoneNumberId"
+  * add your WA permenant token to this Label "WaPermnantTokenn"
+  * add any Token to this Label "WaWebhoohTokenn"
+  * add the Phone Number Id to this Label "WaPhoneNumberIdd"
+  * add the Whatsapp App secret from the app setting --> basic to this Label "AppSecrett"
 ### Whatsapp
 * add in the WA webhook
   * Callback URL: yourSiteURL/WA/services/apexrest/WA_SF/whatsapp/webhook/v1/
